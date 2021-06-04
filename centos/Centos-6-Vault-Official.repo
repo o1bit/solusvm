@@ -1,4 +1,4 @@
-# wget -O /etc/yum.repos.d/CentOS-Base.repo https://github.com/nkeonkeo/shs/raw/main/centos/Centos-6-Vault-Official.repo
+# wget -O /etc/yum.repos.d/CentOS-Base.repo https://nkeonkeo.github.io/solusvm/centos/Centos-6-Vault-Official.repo
 
 # CentOS-Base.repo
 #
